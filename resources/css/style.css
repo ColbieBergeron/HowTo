@@ -1,0 +1,21 @@
+*{
+  background-color: #333231
+}
+h1{
+  font-size: 3rem;
+  color: white;
+}
+h2{
+  color: red;
+  font-family: "Marcellus SC",'fallback', Helvetica, Arial, sans-serif;
+}
+h3{
+  color: red;
+  font-family: "Marcellus SC",'fallback', Helvetica, Arial, sans-serif;
+}
+a{
+  color: #AB966F;
+}
+button{
+  color: red;
+}
