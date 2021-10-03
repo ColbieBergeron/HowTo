@@ -1,21 +1,26 @@
 *{
-  background-color: #333231
+  background-color: #000000;
 }
 h1{
   font-size: 3rem;
-  color: white;
+  color: #FCA311;
+  text-align: center;
 }
 h2{
-  color: red;
+  color: #FCA311;
   font-family: "Marcellus SC",'fallback', Helvetica, Arial, sans-serif;
 }
 h3{
-  color: red;
+  color: #FCA311;
   font-family: "Marcellus SC",'fallback', Helvetica, Arial, sans-serif;
+  font-size: 24px
 }
 a{
-  color: #AB966F;
+  color: #142957;
+  text-decoration: none;
+  font-size: 18px
 }
 button{
-  color: red;
+  color: #142957;
+  font-size: 20px
 }
